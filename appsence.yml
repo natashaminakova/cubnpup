@@ -1,4 +1,6 @@
 branches:
   '**':
+    app:
+      name: Cub n Pup
     testers:
       - minakov@gmail.com
