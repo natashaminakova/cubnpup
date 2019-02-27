@@ -1,0 +1,11 @@
+branches:
+  '**':
+    apple:
+      account:
+        username: qwerty
+        password: qwerty
+      app:
+        name: Cub n Pup
+        bundleId: game.cubnpup
+    testers:
+      - minakov@gmail.com
