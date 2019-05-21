@@ -1,5 +1,5 @@
 branches:
   master:
     testers:
-      minakov@gmail.com
+      - minakov@gmail.com
       
