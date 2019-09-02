@@ -1,3 +1,6 @@
 {
-  "name": "Cub n Pup"
+  "name": "Cub n Pup",
+  "ios": {
+    "bundleIdentifier": "game.cubnpup",
+  }
 }
