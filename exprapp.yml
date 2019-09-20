@@ -1,5 +1,9 @@
 branches:
   master:
+    android:
+      app:
+        name: Cub n Pup
+        packageName: game.cubnpup
     apple:
       account:
         username: qwerty
