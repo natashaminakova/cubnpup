@@ -3,7 +3,7 @@ branches:
     android:
       app:
         name: Cub n Pup
-        packageName: com.cubnpup
+        packageName: game.cubnpup
     apple:
       account:
         username: qwerty
