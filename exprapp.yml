@@ -1,6 +1,6 @@
 branches:
   master:
-    android:
+    cordova-android:
       app:
         name: Cub n Pup
         packageName: game.cubnpup
